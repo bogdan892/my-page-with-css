@@ -100,3 +100,12 @@ section > ul> li > a:hover {
     position: fixed;
     
 }
+footer{
+    margin-bottom: 20px;
+    border-radius: 12px;
+    border: 1px solid #e5e7eb;
+    padding: 0, auto;
+}
+footer p{
+    text-align: center;
+}
